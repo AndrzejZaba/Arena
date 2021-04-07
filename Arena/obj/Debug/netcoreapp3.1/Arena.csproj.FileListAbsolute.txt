@@ -1,0 +1,13 @@
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\bin\Debug\netcoreapp3.1\Arena.exe
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\bin\Debug\netcoreapp3.1\Arena.deps.json
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\bin\Debug\netcoreapp3.1\Arena.runtimeconfig.json
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\bin\Debug\netcoreapp3.1\Arena.runtimeconfig.dev.json
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\bin\Debug\netcoreapp3.1\Arena.dll
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\bin\Debug\netcoreapp3.1\Arena.pdb
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\obj\Debug\netcoreapp3.1\Arena.csprojAssemblyReference.cache
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\obj\Debug\netcoreapp3.1\Arena.AssemblyInfoInputs.cache
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\obj\Debug\netcoreapp3.1\Arena.AssemblyInfo.cs
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\obj\Debug\netcoreapp3.1\Arena.csproj.CoreCompileInputs.cache
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\obj\Debug\netcoreapp3.1\Arena.dll
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\obj\Debug\netcoreapp3.1\Arena.pdb
+C:\Users\aswen\Desktop\C# projekty\arena\Arena\Arena\obj\Debug\netcoreapp3.1\Arena.genruntimeconfig.cache
