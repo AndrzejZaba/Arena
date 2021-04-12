@@ -25,12 +25,12 @@ namespace Arena
             {
                 Console.WriteLine("\n\nTURN " + i);
                 int InitiativeRollResult = InitiativePhase(ChampionOne, ChampionTwo);
-                //Console.WriteLine(InitiativeRollResult); // to delete in the future
+                
                 attackUpdate(InitiativeRollResult, ChampionOne, ChampionTwo);
                 Console.WriteLine(ChampionOne.name + "'s attack: " + ChampionOne.attack); Thread.Sleep(1000);
                 Console.WriteLine(ChampionTwo.name + "'s attack: " + ChampionTwo.attack); Thread.Sleep(1000);
                 int AttackRollResult = AttackPhase(ChampionOne, ChampionTwo);
-                //Console.WriteLine("==================== Attack Roll Result is: " + AttackRollResult);
+                
                 DamagePhase(AttackRollResult, ChampionOne, ChampionTwo);
                 Thread.Sleep(1000);
                 Console.Clear();
@@ -76,14 +76,14 @@ namespace Arena
             if (InitiativeRollResult > 0)
             {
                 championOne.attack++;
-                Console.WriteLine(championOne.name + "'s attack has been boosted by 1"); Thread.Sleep(1000);   //
-                //Console.WriteLine("Current " + championOne.name + "'s attack equals: " + championOne.attack);  // those two lines may be delited but not neceserliy
+                Console.WriteLine(championOne.name + "'s attack has been boosted by 1"); Thread.Sleep(1000);   
+                //Console.WriteLine("Current " + championOne.name + "'s attack equals: " + championOne.attack);  
             }
             else if (InitiativeRollResult < 0)
             {
                 championTwo.attack++;
-                Console.WriteLine(championTwo.name + "'s attack has been boosted by 1"); Thread.Sleep(1000);   //
-                //Console.WriteLine("Current " + championTwo.name + "'s attack equals: " + championTwo.attack);  // those two lines may be delited but not neceserliy
+                Console.WriteLine(championTwo.name + "'s attack has been boosted by 1"); Thread.Sleep(1000);   
+                //Console.WriteLine("Current " + championTwo.name + "'s attack equals: " + championTwo.attack);  
             }
             else Console.WriteLine("Nobody's akack has been boosted - Initatives rolls were equal"); Thread.Sleep(1000);
         }
